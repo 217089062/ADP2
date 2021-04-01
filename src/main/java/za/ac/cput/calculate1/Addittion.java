@@ -7,17 +7,16 @@ package za.ac.cput.calculate1;
 
 /**
  *
- * @author:217089062
+ * @author: Zukisa Molisi
+ * @std:217089062
  */
 public class Addittion {
  
-   int sum(int num1,int num2){
-       return num1+num2;
-   
-   }
-  }
+    public int add(int a, int b){
     
+            return a + b;
+    }
     
     
             
-
+}
